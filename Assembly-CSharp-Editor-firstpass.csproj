@@ -95,16 +95,16 @@
     <Compile Include="Assets\Plugins\PostProcessing\Editor\Utils\FxStyles.cs" />
     <Compile Include="Assets\Plugins\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Unity2018.2.8/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -356,34 +356,34 @@
       <HintPath>C:/Program Files/Unity/Unity2018.2.8/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Substance.Game">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/Allegorithmic/Plugins/Substance.Game.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/Allegorithmic/Plugins/Substance.Game.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Plugins/websocket-sharp.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/Allegorithmic/Plugins/Substance/Livelink/Editor/Plugins/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Substance.Editor">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Substance.Reflection">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.Reflection.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/Substance.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="SourceUnityLib">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/Allegorithmic/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll</HintPath>
     </Reference>
     <Reference Include="System.Drawing">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/Plugins/System.Drawing.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/Plugins/System.Drawing.dll</HintPath>
     </Reference>
     <Reference Include="QFramework.Log">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/QFramework/Framework/0.Libs/Plugins/QFramework.Log.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/QFramework/Framework/0.Libs/Plugins/QFramework.Log.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/QFramework/Framework/2.ResKit/4.IO/Plugins/ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/QFramework/Framework/2.ResKit/4.IO/Plugins/ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/QFramework/Framework/2.ResKit/4.IO/Plugins/Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/QFramework/Framework/2.ResKit/4.IO/Plugins/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="ProtobufNet">
-      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/HumanCognitive/Assets/QFramework/Framework/2.ResKit/4.IO/Plugins/ProtobufNet.dll</HintPath>
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Assets/QFramework/Framework/2.ResKit/4.IO/Plugins/ProtobufNet.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/admin/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
