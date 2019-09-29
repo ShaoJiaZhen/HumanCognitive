@@ -153,6 +153,12 @@
     <Compile Include="Assets\QFramework\Framework\6.FrameworkConfig\Editor\Info\FrameworkVersionInfo.cs" />
     <Compile Include="Assets\QFramework\Framework\6.FrameworkConfig\Editor\PreferencesWindow.cs" />
     <Compile Include="Assets\QFramework\Framework\7.Tests\Editor\Issues.cs" />
+    <Reference Include="Assembly-Boo">
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Library/ScriptAssemblies/Assembly-Boo.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-UnityScript">
+      <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/UnityProjectFiles/Warehouse/Unity/Other/HumanCognitive/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class EggBase : MonoBehaviour
 {
-
     private int grateNumber;
     public int GrateNumber
     {
@@ -20,11 +19,4 @@ public class EggBase : MonoBehaviour
         }
     }
     private Text showPlane;
-    private 
-
-    void Start() {
-
-
-    }
-    
 }

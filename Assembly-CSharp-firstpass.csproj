@@ -61,6 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\HighlightableObject.cs" />
+    <Compile Include="Assets\Plugins\HighlightingSystem\Scripts\HighlightingEffect.cs" />
     <Compile Include="Assets\Plugins\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\Plugins\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\Plugins\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -118,16 +120,21 @@
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\ACES.cginc" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
+    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingBlur.shader" />
     <None Include="Assets\Plugins\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\Uber.shader" />
+    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingStencilTransparent.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\Blit.shader" />
     <None Include="Assets\Plugins\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
+    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingInclude.cginc" />
     <None Include="Assets\Plugins\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\FXAA3.cginc" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\MotionBlur.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingComposite.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingStencilOpaqueZ.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\Common.cginc" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
     <None Include="Assets\Plugins\PostProcessing\Editor Resources\UI\Trackball.shader" />
@@ -135,6 +142,7 @@
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\TAA.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\TAA.cginc" />
+    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingStencilOpaque.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\GrainGen.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\FXAA.shader" />
@@ -145,6 +153,7 @@
     <None Include="Assets\Plugins\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
+    <None Include="Assets\Plugins\HighlightingSystem\Resources\HighlightingStencilTransparentZ.shader" />
     <None Include="Assets\Plugins\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
     <None Include="Assets\Plugins\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
     <Reference Include="UnityEditor.StandardEvents">

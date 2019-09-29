@@ -22,7 +22,17 @@ ModelImporter:
     4300000: DigestiveSystem
     4300002: Object001
     4300004: Object002
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Digestive_System
+    second: {fileID: 2100000, guid: c3cb6ca9fa4bb4c4ab7f8f735bf0813b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lymphatic_System
+    second: {fileID: 2100000, guid: a4a29af1b73532049ba60cfa78d1e000, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -61,7 +71,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

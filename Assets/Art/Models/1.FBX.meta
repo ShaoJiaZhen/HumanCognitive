@@ -21,7 +21,12 @@ ModelImporter:
     4300000: Respiratory_Larynx_Trachea_Bronchus
     4300002: Respiratory_Diaphragm
     4300004: Respiratory_Lungs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Respiratory_System
+    second: {fileID: 2100000, guid: f0c09ccf032d578489b7550e8e1c1dd6, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -60,7 +65,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

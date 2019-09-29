@@ -24,7 +24,27 @@ ModelImporter:
     4300000: Circulatory_Heart
     4300002: Circulatory_Veins
     4300004: Circulatory_Arteries
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circular_Heart_Lower
+    second: {fileID: 2100000, guid: 9304a99cf9229c44996b1a929a55e7f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circular_Heart_Upper
+    second: {fileID: 2100000, guid: f6bda7b12718f6c4b8710a32e5035e18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circulatory_Arteries
+    second: {fileID: 2100000, guid: 72558000f7fa96241accd0a2634c7e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circulatory_Veins
+    second: {fileID: 2100000, guid: 040456b0a88de98438b06619afc65bc1, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -63,7 +83,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

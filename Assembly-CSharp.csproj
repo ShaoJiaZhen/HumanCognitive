@@ -63,6 +63,18 @@
   <ItemGroup>
     <Compile Include="Assets\Art\BlurShape\BlurShape.cs" />
     <Compile Include="Assets\Art\BlurShape\PostEffectsBase.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\CameraTargeting.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\CompoundObjectController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\CustomOccluderController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\DelayedDestroyController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\FlashingController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\HighlightingController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\OccluderController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\RotationController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\SceneLoader.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\SpectrumController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\StaticOccluderController.cs" />
+    <Compile Include="Assets\HighlightingSystemDemo\Scripts\WallMovementController.cs" />
     <Compile Include="Assets\QFramework\Framework\0.Libs\0.Extension\0.Example\ExtensionExample.cs" />
     <Compile Include="Assets\QFramework\Framework\0.Libs\0.Extension\1.DotNet\Class.cs" />
     <Compile Include="Assets\QFramework\Framework\0.Libs\0.Extension\1.DotNet\FuncOrActionOrEvent.cs" />
@@ -679,6 +691,9 @@
     <Compile Include="Assets\Scripts\Other\TestAngle.cs" />
     <Compile Include="Assets\Scripts\Other\TwirlScripts.cs" />
     <Compile Include="Assets\Scripts\Other\UIDrag.cs" />
+    <Compile Include="Assets\Scripts\System\Illness.cs" />
+    <Compile Include="Assets\Scripts\System\SystemBtn.cs" />
+    <Compile Include="Assets\Scripts\System\SystemEvevt.cs" />
     <Compile Include="Assets\Scripts\UI\Scene_G.cs" />
     <Compile Include="Assets\Scripts\UI\Scene_GComponents.cs" />
     <Compile Include="Assets\Scripts\UI\Test.cs" />

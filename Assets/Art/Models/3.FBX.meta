@@ -17,7 +17,17 @@ ModelImporter:
     3300002: Skeletal_Vertebral_Column
     4300000: Skeletal_Vertebral_Column
     4300002: Skeletal_Mandible
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skeletal_Skeleton
+    second: {fileID: 2100000, guid: 8dfe13c21719f904cb5690d2a1b659f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skeletal_Skull
+    second: {fileID: 2100000, guid: efa1621faee8bc34f898f9131599ca5b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -56,7 +66,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

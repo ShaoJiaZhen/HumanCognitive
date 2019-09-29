@@ -17,7 +17,12 @@ ModelImporter:
     4300000: ReproductiveSystem
     4300002: Object003
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reproductive_System
+    second: {fileID: 2100000, guid: cfdae507d24786d438ad600ee000b63a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -56,7 +61,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

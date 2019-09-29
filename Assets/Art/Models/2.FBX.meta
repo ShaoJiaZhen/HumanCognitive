@@ -35,7 +35,32 @@ ModelImporter:
     4300004: Nervous_Amygdala
     4300006: Nervous_Cerebrum
     4300008: Object007
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: 418273c76e4387a4092da02b63e8e663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_Head
+    second: {fileID: 2100000, guid: 6545f2d5a8507c741855f8df799a494c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_InnerEyes
+    second: {fileID: 2100000, guid: 767043f43b4c49349b196de8cb57880b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_OuterEyes
+    second: {fileID: 2100000, guid: 767043f43b4c49349b196de8cb57880b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nervous_Nerves
+    second: {fileID: 2100000, guid: df94e3b5c2b924f47af8bd48741ce57b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -74,7 +99,7 @@ ModelImporter:
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
